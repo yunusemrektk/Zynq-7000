@@ -1,0 +1,1 @@
+design_1_wrapper.bit file is our final bitstream for the design.
