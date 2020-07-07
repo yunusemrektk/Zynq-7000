@@ -1,11 +1,11 @@
 Team number: xohw20_162
-Project name: Webcam-based Real-Time Optical Mark Reader
+Project name: Accelaration of a function in OMR
 
 Date: 27.06.2020
 Version of uploaded archive: v1.0
 
-University name: Eski˛ehir Technical University
-Supervisor name: ›smail SAN
+University name: Eski√æehir Technical University
+Supervisor name: √ùsmail SAN
 Supervisor e-mail: isan@eskisehir.edu.tr 
 Participant(s): Yunus Emre KUTUK, Hasan KARACA
 Email: yunusemrekutuk@eskisehir.edu.tr
